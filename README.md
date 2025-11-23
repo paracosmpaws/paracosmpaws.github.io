@@ -1,2 +1,2 @@
 # site
-repo for paracosmpaws.net
+repo for https://paracosmpaws.net/
